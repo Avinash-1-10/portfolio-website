@@ -13,7 +13,7 @@ const projects: Project[] = [
     description:
       "Social Media App is a social media platform where users can create posts, share photos, and connect with other users. Users can also follow, unfollow, and comment on posts.",
     image:
-      "https://res.cloudinary.com/dfqd02z8w/image/upload/v1720611260/gavlh2opno7reiv9ilmo.jpg",
+      "https://res.cloudinary.com/dfqd02z8w/image/upload/v1720611778/lizrs2l83vhahkklsnep.jpg",
     code: "https://github.com/Avinash-1-10/threads",
     tech: ["React.js", "Node.js", "MongoDB", "Chakra UI"],
   },
